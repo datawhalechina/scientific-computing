@@ -1,6 +1,7 @@
 # Python科学计算
 
 项目地址：https://github.com/datawhalechina/scientific-computing/
+
 电子教程：https://datawhalechina.github.io/scientific-computing/
 
 本项目主要介绍Python科学计算的内容。我们将Python常用的工具例如numpy，scipy，sympy，matplotlib，pandas，networkx，statsmodels，sklearn的常见用法进行了汇总与讲解。可以作为聪明办法学Python的下游课程，也可以作为数学建模导论的前置课程。我们致力于为大家带来更简洁的科学计算方法。
