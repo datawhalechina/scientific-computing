@@ -1,4 +1,4 @@
-# Python科学计算
+# Python科学计算（⚠️ Alpha内测版）
 
 项目地址：https://github.com/datawhalechina/scientific-computing/
 
